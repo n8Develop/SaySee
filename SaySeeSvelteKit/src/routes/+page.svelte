@@ -1,7 +1,7 @@
 <script>
-	import MainPageCarousel from '../components/MainPage/mainPageCarousel.svelte';
-	import MainPageImageGrid from '../components/MainPage/mainPageImageGrid.svelte';
-	import MainPageLatestImage from '../components/MainPage/mainPageLatestImage.svelte';
+	import MainPageCarousel from 'MainPage/mainPageCarousel.svelte';
+	import MainPageImageGrid from 'MainPage/mainPageImageGrid.svelte';
+	import MainPageLatestImage from 'MainPage/mainPageLatestImage.svelte';
 </script>
 
 <main>
